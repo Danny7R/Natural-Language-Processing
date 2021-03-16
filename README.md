@@ -1,7 +1,7 @@
 # Natural Language Processing
 IPython notebooks of the most important tasks in natural language processing (NLP), all executable in Google Colab :)
 
-Every notebook contains cells that download dependencies and installs packages, as well as information that guides you along the way.
+Every notebook contains cells that download dependencies and installs packages, as well as information that guides you along the way. Decent knowledge of Python is, however, required.
 
 Just need to follow these simple steps for each notebook:
 1. Go to **https://colab.research.google.com** and sign in.
