@@ -1,7 +1,7 @@
 # Natural Language Processing
 IPython notebooks of the most important tasks in natural language processing (NLP) solved using both **classical** and **deep learning** approaches. All are executable in Google Colab :)
 
-These notenooks are designed as part of the Natural Language Processing course offered by HSE on Coursera, and contain my own solutions and additions. Every notebook contains cells that download dependencies and installs packages, as well as information that guides you along the way. Decent knowledge of **Python** is, however, required. Many libraries and packages are covered, including **TensorFlow**, **Scikit-learn**, **NLTK**, **Gensim**, and **StarSpace**.
+These notenooks are designed as part of the Natural Language Processing course offered by HSE on Coursera, and contain my own solutions and additions. Every notebook contains cells that download dependencies and installs packages, as well as information that guides you along the way. Decent knowledge of **Python** is, however, required. Many libraries and packages are utilized, including **TensorFlow**, **Scikit-learn**, **NLTK**, **Gensim**, and **StarSpace**.
 
 Just need to follow these simple steps for each notebook:
 1. Go to **https://colab.research.google.com** and sign in.
